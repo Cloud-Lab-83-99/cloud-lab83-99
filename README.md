@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
@@ -14,3 +15,6 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 See [LICENSE](LICENSE)
+=======
+# cloud-lab83-99
+>>>>>>> 67ea742e311b08d211f25b56059ea2639fadc4df
